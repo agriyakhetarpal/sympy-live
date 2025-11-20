@@ -5,19 +5,19 @@
         {
           "comment_text": "",
           "digests": {
-            "md5": "44e0cfc87f0936193a7e1eba792cb823",
-            "sha256": "219a0481537f49a2d2ac77b60928ccf0d64669d1b131fb9bccfbebe8e420c64d"
+            "md5": "875b70f12ebe9dbcfc03b71e16b111ba",
+            "sha256": "9b282551c6a925c98cd0d3fb09add40e3fb59350e8a4e8d27189d855b08851e8"
           },
           "downloads": -1,
           "filename": "sympy-1.14.0-py3-none-any.whl",
           "has_sig": false,
-          "md5_digest": "44e0cfc87f0936193a7e1eba792cb823",
+          "md5_digest": "875b70f12ebe9dbcfc03b71e16b111ba",
           "packagetype": "bdist_wheel",
           "python_version": "py3",
           "requires_python": ">=3.9",
           "size": 4185567,
-          "upload_time": "2025-11-19T03:26:54.654146Z",
-          "upload_time_iso_8601": "2025-11-19T03:26:54.654146Z",
+          "upload_time": "2025-11-20T03:25:58.754332Z",
+          "upload_time_iso_8601": "2025-11-20T03:25:58.754332Z",
           "url": "./sympy-1.14.0-py3-none-any.whl",
           "yanked": false,
           "yanked_reason": null
